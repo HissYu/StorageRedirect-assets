@@ -1,0 +1,11 @@
+{
+    "package": "com.pwrd.steam.esport",
+    "verified": false,
+    "authors": [
+        "HissYu"
+    ],
+    "recommendation": "@recommended",
+    "behaviors": [
+        "@abuse"
+    ]
+}

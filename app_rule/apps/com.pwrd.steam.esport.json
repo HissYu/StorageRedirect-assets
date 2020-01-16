@@ -4,6 +4,10 @@
     "authors": [
         "HissYu"
     ],
+    "last_update": {
+        "timestamp": 1579185849,
+        "version_name": "1.2.5.15"
+    },
     "recommendation": "@recommended",
     "behaviors": [
         "@abuse"
